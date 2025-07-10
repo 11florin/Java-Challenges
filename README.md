@@ -15,3 +15,4 @@ The goal of this project is to help me strengthen my understanding of Java funda
 
 ## How to Run
 Clone the repository:
+https://github.com/11florin/Java-Challenges.git
